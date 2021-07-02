@@ -1,5 +1,5 @@
 # Logisim
-Things I've designed using the Logisim software, most notably some functions CPUs!
+Things I've designed using the Logisim software, most notably some functional CPUs!
 To view the circuits, you'll need the free Logisim software. I did not write the code, I only used Logisim to design logic circuits.
 
 About the circuits:
